@@ -2,7 +2,7 @@ import React from 'react';
 
 const App = () => (
   <>
-  React Format
+  Update by github actions
   </>
 );
 
